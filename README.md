@@ -6,26 +6,29 @@ Paper title: "Evaluating different deep learning models for efficient extraction
 
 By [Rajendhar junjuri](https://scholar.google.co.in/citations?user=BRu_wuAAAAAJ&hl=en)\, [Ali Saghi](https://scholar.google.co.in/citations?view_op=list_works&hl=en&hl=en&user=GcWhnFcAAAAJ),  [Lasse Lensu](https://scholar.google.co.in/citations?user=dk2Ezl0AAAAJ&hl=en&oi=ao), and [Erik M. Vartiainen](https://scholar.google.co.in/citations?user=zbxe2qYAAAAJ&hl=en&oi=ao) 
 
-## About Synthetic test data
+## About Synthetic test data and code
 The details of the 300 synthetic test spectra
 
 "y_test_300_merge_spectra3.npy"---> referes to the true Raman signal and can be found here https://github.com/Junjuri/LUT/blob/main/y_test_300_merge_spectra3.npy
 
 "x_test_300_merge_spectra3.npy"---> referes to the input CARS data and can be found here https://github.com/Junjuri/LUT/blob/main/x_test_300_merge_spectra3.npy
 
+Testing can be done by using the following program.
+RSS_Advances_CNN_prediction_on_test_data.py
+
 ## About the experimental CARS test data
 The experimental CARS test data set used in this investigation can only be provided upon request and can contact [Erik M. Vartiainen](https://research.lut.fi/converis/portal/detail/Person/56843?auxfun=&lang=en_GB) 
 
 ## About the training codes
 
-The model architecture is directly adapted from the SpecNet paper (See https://github.com/Valensicv/SpecNet for the full code of the neural network model)
-Here three different NRBs are evaluated. 
+1. CNN model trainin can be done by using this program 'RSS_Advances_CNN_to_train_with_different_NRBs.py' Please see here     https://github.com/Junjuri/LUT/blob/main/RSS_Advances_CNN_to_train_with_different_NRBs.py
 
-It can be accessed from the following program.
-RSS_Advances_CNN_to_train_with_different_NRBs.py
+2. Bi-LSTM model training can be done by using this program 'bi-LSTM_train.py'. 
 
-Testing can be done by using the following program.
-RSS_Advances_CNN_prediction_on_test_data.py
+3. LSTM model training can be done by using this program 'LSTM_train.py'. 
+
+4. Vector model training can be done by using this program
+
 
 ## About the trained model weights
 
