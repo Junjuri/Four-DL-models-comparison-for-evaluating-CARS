@@ -9,9 +9,9 @@ By [Rajendhar junjuri](https://scholar.google.co.in/citations?user=BRu_wuAAAAAJ&
 ## About Synthetic test data and code
 The details of the 300 synthetic test spectra
 
-"y_test_300_merge_spectra3.npy"---> referes to the true Raman signal and can be found here https://github.com/Junjuri/LUT/blob/main/y_test_300_merge_spectra3.npy
+"y_test_300_merge_spectra3.npy"---> referes to the true Raman signal and data can be found here https://github.com/Junjuri/LUT/blob/main/y_test_300_merge_spectra3.npy
 
-"x_test_300_merge_spectra3.npy"---> referes to the input CARS data and can be found here https://github.com/Junjuri/LUT/blob/main/x_test_300_merge_spectra3.npy
+"x_test_300_merge_spectra3.npy"---> referes to the input CARS data and data can be found here https://github.com/Junjuri/LUT/blob/main/x_test_300_merge_spectra3.npy
 
 Testing can be done by using the following program.
 'RSS_Advances_CNN_prediction_on_test_data.py'. It can be found here https://github.com/Junjuri/LUT/blob/main/RSS_Advances_CNN_prediction_on_test_data.py
