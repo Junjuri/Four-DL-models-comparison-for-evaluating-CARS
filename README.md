@@ -35,7 +35,7 @@ RSS_Advances_CNN_prediction_on_test_data.py
 
 ## About the trained model weights
 
-"CNN_model_weights.h5" --->referes weights of the model trained with CNN.
+"CNN_model_weights can be found here with a name
 
 "LSTM_model_weights.h5" --->referes weights of the model trained with LSTM.
 
