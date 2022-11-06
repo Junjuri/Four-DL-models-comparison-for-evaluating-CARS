@@ -22,7 +22,7 @@ These are 300 synthetic test spectra evaluated in the manuscript.
 ## About the experimental CARS test data
 The experimental CARS test data set used in this investigation can only be provided upon request and can contact [Erik M. Vartiainen](https://research.lut.fi/converis/portal/detail/Person/56843?auxfun=&lang=en_GB) 
 
-## About the CNN model code
+## About the training codes
 
 The model architecture is directly adapted from the SpecNet paper (See https://github.com/Valensicv/SpecNet for the full code of the neural network model)
 Here three different NRBs are evaluated. 
@@ -35,11 +35,13 @@ RSS_Advances_CNN_prediction_on_test_data.py
 
 ## About the trained model weights
 
-"One_sigmoid_NRB_model_weights.h5" --->referes weights of the model trained with One sigmoid NRB.
+"CNN_model_weights.h5" --->referes weights of the model trained with CNN.
 
-"Polynomial_NRB_model_weights.h5" --->referes weights of the model trained with Polynomial_NRB.
+"LSTM_model_weights.h5" --->referes weights of the model trained with LSTM.
 
-"Specnet_weights.h5" --->referes weights of the model trained with the product of two sigmoids NRB
+"VECTOR_model_weights.h5" --->referes weights of the model trained with VECTOR
+
+"Bi_LSTM_model_weights.h5" --->referes weights of the model trained with Bi-LSTM can be accseed vai request at rajendhar.j2008@gmail.com
 
 ## Getting Started and Requirements 
 You can use Python (TensorFlow 2.7.0) to test the pre-trained network. We have tested it in Spyder.
