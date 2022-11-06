@@ -1,6 +1,6 @@
-# three-model-comparison
+# Four-model-comparison
 
-# These four models are different from each other viz, convolutional neural network (CNN), Long short-term memory (LSTM) neural network, very deep convolutional autoencoders (VECTOR), and Bi-directional LSTM (Bi – LSTM) neural network. 
+These four models are different from each other viz, convolutional neural network (CNN), Long short-term memory (LSTM) neural network, very deep convolutional autoencoders (VECTOR), and Bi-directional LSTM (Bi – LSTM) neural network. 
 
 Paper title: "Evaluating different deep learning models for efficient extraction of Raman signals from CARS spectra"
 
