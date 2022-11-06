@@ -38,7 +38,7 @@ The experimental CARS test data set used in this investigation can only be provi
 
 "VECTOR_model_weights.h5" --->referes weights of the model trained with VECTOR
 
-"Bi_LSTM_model_weights.h5" --->referes weights of the model trained with Bi-LSTM can be accseed vai request at rajendhar.j2008@gmail.com
+"Bi_LSTM_model_weights.h5" --->referes weights of the model trained with Bi-LSTM can be accseed via request at rajendhar.j2008@gmail.com
 
 ## Getting Started and Requirements 
 You can use Python (TensorFlow 2.7.0) to test the pre-trained network. We have tested it in Spyder.
