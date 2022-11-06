@@ -7,11 +7,11 @@ Paper title: "Evaluating different deep learning models for efficient extraction
 By [Rajendhar junjuri](https://scholar.google.co.in/citations?user=BRu_wuAAAAAJ&hl=en)\, [Ali Saghi](https://scholar.google.co.in/citations?view_op=list_works&hl=en&hl=en&user=GcWhnFcAAAAJ),  [Lasse Lensu](https://scholar.google.co.in/citations?user=dk2Ezl0AAAAJ&hl=en&oi=ao), and [Erik M. Vartiainen](https://scholar.google.co.in/citations?user=zbxe2qYAAAAJ&hl=en&oi=ao) 
 
 ## About Synthetic test data
-These are 300 synthetic test spectra can be found here 
+The details of the 300 synthetic test spectra
 
-"y_test_300_merge_spectra3.npy"---> referes to the true Raman signal
+"y_test_300_merge_spectra3.npy"---> referes to the true Raman signal and can be found here https://github.com/Junjuri/LUT/blob/main/y_test_300_merge_spectra3.npy
 
-"x_test_300_merge_spectra3.npy"---> referes to the input CARS data
+"x_test_300_merge_spectra3.npy"---> referes to the input CARS data and can be found here https://github.com/Junjuri/LUT/blob/main/x_test_300_merge_spectra3.npy
 
 ## About the experimental CARS test data
 The experimental CARS test data set used in this investigation can only be provided upon request and can contact [Erik M. Vartiainen](https://research.lut.fi/converis/portal/detail/Person/56843?auxfun=&lang=en_GB) 
