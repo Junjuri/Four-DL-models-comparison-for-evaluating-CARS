@@ -14,7 +14,7 @@ The details of the 300 synthetic test spectra
 "x_test_300_merge_spectra3.npy"---> referes to the input CARS data and can be found here https://github.com/Junjuri/LUT/blob/main/x_test_300_merge_spectra3.npy
 
 Testing can be done by using the following program.
-RSS_Advances_CNN_prediction_on_test_data.py. It can be found here https://github.com/Junjuri/LUT/blob/main/RSS_Advances_CNN_prediction_on_test_data.py
+'RSS_Advances_CNN_prediction_on_test_data.py'. It can be found here https://github.com/Junjuri/LUT/blob/main/RSS_Advances_CNN_prediction_on_test_data.py
 
 ## About the experimental CARS test data
 The experimental CARS test data set used in this investigation can only be provided upon request and can contact [Erik M. Vartiainen](https://research.lut.fi/converis/portal/detail/Person/56843?auxfun=&lang=en_GB) 
