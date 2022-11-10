@@ -36,7 +36,7 @@ The experimental CARS test data set used in this investigation can only be provi
 
 "LSTM_model_weights.h5" --->referes weights of the model trained with LSTM.
 
-"VECTOR_model_weights.h5" --->referes weights of the model trained with VECTOR
+"VECTOR_model_weights.h5" --->referes weights of the model trained with VECTOR can be accseed via request at ali.saghi.2015@gmail.com or rajendhar.j2008@gmail.com
 
 "Bi_LSTM_model_weights.h5" --->referes weights of the model trained with Bi-LSTM can be accseed via request at rajendhar.j2008@gmail.com
 
