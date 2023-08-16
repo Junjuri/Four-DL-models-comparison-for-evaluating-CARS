@@ -1,10 +1,19 @@
-# Four-models-comparison
+## Evaluating different deep learning models for efficient extraction of Raman signals from CARS spectra
+
+Paper title: "Evaluating different deep learning models for efficient extraction of Raman signals from CARS spectra" 
+
+By [Rajendhar junjuri](https://scholar.google.co.in/citations?user=BRu_wuAAAAAJ&hl=en)\, [Ali Saghi](https://scholar.google.co.in/citations?view_op=list_works&hl=en&hl=en&user=GcWhnFcAAAAJ),  [Lasse Lensu](https://scholar.google.co.in/citations?user=dk2Ezl0AAAAJ&hl=en&oi=ao), and [Erik M. Vartiainen](https://scholar.google.co.in/citations?user=zbxe2qYAAAAJ&hl=en&oi=ao) 
 
 These four models are different from each other viz, convolutional neural network (CNN), Long short-term memory (LSTM) neural network, very deep convolutional autoencoders (VECTOR), and Bi-directional LSTM (Bi – LSTM) neural network. 
 
-Paper title: "Evaluating different deep learning models for efficient extraction of Raman signals from CARS spectra" DOI: https://doi.org/10.1039/D3CP01618H
+## The article can be accessed here
+DOI: https://doi.org/10.1039/D3CP01618H
 
-By [Rajendhar junjuri](https://scholar.google.co.in/citations?user=BRu_wuAAAAAJ&hl=en)\, [Ali Saghi](https://scholar.google.co.in/citations?view_op=list_works&hl=en&hl=en&user=GcWhnFcAAAAJ),  [Lasse Lensu](https://scholar.google.co.in/citations?user=dk2Ezl0AAAAJ&hl=en&oi=ao), and [Erik M. Vartiainen](https://scholar.google.co.in/citations?user=zbxe2qYAAAAJ&hl=en&oi=ao) 
+## Citation
+Junjuri, R., Saghi, A., Lensu, L., & Vartiainen, E. M. (2023). Evaluating different deep learning models for efficient extraction of Raman signals from CARS spectra. Physical Chemistry Chemical Physics, 25(24), 16340-16353.
+
+## More related articles can be found here
+https://scholar.google.co.in/citations?hl=en&user=BRu_wuAAAAAJ&view_op=list_works&sortby=pubdate
 
 ## About Synthetic test data and code
 The details of the 300 synthetic test spectra
@@ -42,6 +51,3 @@ The experimental CARS test data set used in this investigation can only be provi
 
 ## Getting Started and Requirements 
 You can use Python (TensorFlow 2.7.0) to test the pre-trained network. We have tested it in Spyder.
-
-## Citation
-Junjuri, Rajendhar, et al. "Evaluating different deep learning models for efficient extraction of Raman signals from CARS spectra." Physical Chemistry Chemical Physics 25.24 (2023): 16340-16353.
